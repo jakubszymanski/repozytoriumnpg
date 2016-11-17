@@ -18,7 +18,7 @@ print "=" * 20
 
 def fibonacci2(n):
     pwyrazy = (0, 1)
-    a, b = pwyrazy
+    a, b = pwyrazydfgdfgdgdfdgf
     while a < n:cxcvxc
         a, b = b, a + b
     print a
