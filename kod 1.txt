@@ -23,7 +23,7 @@ def fibonacci2(n):
         a, b = b, a + b
     print a
 
-fibonacci2(n)
+fibonacci2(n)fghfghfghfgh
 // kodedrgdfgdfgdfg
 // linia
 
