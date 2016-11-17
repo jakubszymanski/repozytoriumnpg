@@ -1,5 +1,5 @@
 import java.util.Comparator;
-public class Fruit implements Comparable<Fruit>{
+public class Fruit implements Comparable<Fruit>{ zmiana w drugiej linijce
 
 	private String fruitName;
 	private String fruitDesc;
