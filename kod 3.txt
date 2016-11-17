@@ -23,7 +23,7 @@ for (i=0;i<3;i++)
     if ( (plansza[0][i]!=' ')
         &&(plansza[0][i]==plansza[1][i])
         &&(plansza[0][i]==plansza[2][i]) )
-return plansza [0][i];
+return plansza [0][i];asdasdasdasd
  
 } // for
  
