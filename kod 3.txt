@@ -31,7 +31,7 @@ if ((plansza[0][0]!=' ')
     && (plasdasdasdasdansza[0][0]==plansza[1][1])
     && (plansza[0][0]==plansza[2][2]))
     return plansza[0][0];
- dfdfgdfgdfg
+ dfdfgdfgdfgasasasasa
 if ((plansza[2][0]!=' ')asasasas
 &&(plansza[2][0]==plansza[1][1])
 &&(planszadsdfsdfsdf[2][0]==plansza[0][2]))
