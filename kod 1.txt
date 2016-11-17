@@ -24,7 +24,7 @@ def fibonacci2(n):
     print a
 
 fibonacci2(n)
-// kod
+// kodedrgdfgdfgdfg
 // linia
 
 //kod
