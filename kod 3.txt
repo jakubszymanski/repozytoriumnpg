@@ -28,7 +28,7 @@ return plansza [0][i];
 } // for
  
 if ((plansza[0][0]!=' ')
-    && (plansza[0][0]==plansza[1][1])
+    && (plasdasdasdasdansza[0][0]==plansza[1][1])
     && (plansza[0][0]==plansza[2][2]))
     return plansza[0][0];
  dfdfgdfgdfg
