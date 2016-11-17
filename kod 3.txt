@@ -13,7 +13,7 @@ w jednej linii (wtedy którys z graczy wygra³),
 czy plansza jest juz pe³na (wtedy jest remis)*/
 char sprawdz(char plansza[3][3])
 {
-int i;
+int i;asdasdasdasdasd
 for (i=0;i<3;i++)
 {
     if ( (plansza[i][0]!=' ')
@@ -23,19 +23,19 @@ for (i=0;i<3;i++)
     if ( (plansza[0][i]!=' ')
         &&(plansza[0][i]==plansza[1][i])
         &&(plansza[0][i]==plansza[2][i]) )
-return plansza [0][i];
+return plansza [0][i];asdasdasdasd
  
 } // for
  
 if ((plansza[0][0]!=' ')
-    && (plansza[0][0]==plansza[1][1])
+    && (plasdasdasdasdansza[0][0]==plansza[1][1])
     && (plansza[0][0]==plansza[2][2]))
     return plansza[0][0];
- 
-if ((plansza[2][0]!=' ')
+ dfdfgdfgdfgasasasasa
+if ((plansza[2][0]!=' ')asasasas
 &&(plansza[2][0]==plansza[1][1])
-&&(plansza[2][0]==plansza[0][2]))
-return plansza[2][0];
+&&(planszadsdfsdfsdf[2][0]==plansza[0][2]))
+return plansza[2][dfgdfgdfgdfg0];dfgdfgdfgdfgdfgdfg
  
  
 if (pelna(plansza)==1)
