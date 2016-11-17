@@ -1,0 +1,45 @@
+void ruch_gracza(char plansza[3][3])
+{
+    unsigned int i=3, j;
+    wypisz(plansza);
+    printf("Podaj wiersz i kolumne w ktorej chcesz wstawic krzyzyk\n");
+    while ((i>2)||(j>2) || (plansza[i][j]!=' '))
+        scanf("%u %u", &i, &j);
+    plansza[i][j]='x';
+}
+/*Funkcja sprawdz sprawdzi:
+czy na planszy nie ma trzech takich samych znaków lezacych
+w jednej linii (wtedy którys z graczy wygra³),
+czy plansza jest juz pe³na (wtedy jest remis)*/
+char sprawdz(char plansza[3][3])
+{
+int i;
+for (i=0;i<3;i++)
+{
+    if ( (plansza[i][0]!=' ')
+        && (plansza[i][0]==plansza[i][1])
+        && (plansza[i][0]==plansza[i][2]))
+        return plansza[i][0];
+    if ( (plansza[0][i]!=' ')
+        &&(plansza[0][i]==plansza[1][i])
+        &&(plansza[0][i]==plansza[2][i]) )
+return plansza [0][i];
+ 
+} // for
+ 
+if ((plansza[0][0]!=' ')
+    && (plansza[0][0]==plansza[1][1])
+    && (plansza[0][0]==plansza[2][2]))
+    return plansza[0][0];
+ 
+if ((plansza[2][0]!=' ')
+&&(plansza[2][0]==plansza[1][1])
+&&(plansza[2][0]==plansza[0][2]))
+return plansza[2][0];
+ 
+ 
+if (pelna(plansza)==1)
+    return 1;
+return 0;
+ 
+} //sprawdz
