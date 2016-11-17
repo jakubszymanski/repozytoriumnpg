@@ -35,7 +35,7 @@ if ((plansza[0][0]!=' ')
 if ((plansza[2][0]!=' ')
 &&(plansza[2][0]==plansza[1][1])
 &&(plansza[2][0]==plansza[0][2]))
-return plansza[2][0];
+return plansza[2][0];dfgdfgdfgdfgdfgdfg
  
  
 if (pelna(plansza)==1)
