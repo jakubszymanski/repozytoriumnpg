@@ -22,7 +22,7 @@ def fibonacci2(n):
     while a < n:cxcvxc
         a, b = b, a + b
     print a
-
+dfgdfgdfgdf
 fibonacci2(n)fghfghfghfgh
 // kodedrgdfgdfgdfg
 // linia
