@@ -15,7 +15,7 @@ void wyczysc (char plansza[3][3])
         for (j=0;j<3;j++)
             plansza[i][j]=' ';
  
-}
+}dfhdfghf
  
  
 /* Funkcja rysuj¹ca planszê na ekranie */
