@@ -4,7 +4,7 @@ asasas#! /usr/bin/env python
 
 def fibonacci(n):  # definicja funkcji
     pwyrazy = (0, 1)  # dwa pierwsze wyrazy ci¹gu zapisane w tupli
-    a, b = pwyrazy  # przypisanie wielokrotne, rozpakowanie tupli
+    a, b = pwyrazy  # przypisanie wielokrotne, rozpakowandfsdfie tupli
     while n > 0:
         print b,
         a, b = b, a + b  # przypisanie wielokrotneaa
