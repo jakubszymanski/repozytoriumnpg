@@ -8,8 +8,13 @@
  
  
 /* Funkcja czyszc¹ca planszê */
+<<<<<<< HEAD
 void wyczysc (char plansza[3][3])
 {asasasas
+=======
+void wyczysc (char plansza[3][3])wewe
+{
+>>>>>>> nowbranch
     int i,j;
     for (i=0;i<3;i++)aa
         for (j=0;j<3;j++)zxczxc

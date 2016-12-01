@@ -14,7 +14,7 @@ n = int(raw_input("Podaj numer wyrazu: "))
 fibonacci(n)
 print ""
 print "=" * 20
-
+sas
 
 def fibonacci2(n):
     pwyrazy = (0, 1)
