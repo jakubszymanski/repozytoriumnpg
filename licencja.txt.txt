@@ -1,0 +1,136 @@
+Archiwizer RAR
+~~~~~~~~~~~~~~
+Umowa licencyjna na u¿ywanie i rozpowszechnianie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Archiwizer RAR jest rozpowszechniany na zasadzie shareware
+(wypróbuj zanim kupisz). Oznacza to, ¿e
+
+1. Wszelkie prawa do RARa s¹ zastrze¿one przez autora - Alexandra Roshala.
+
+2. Ka¿dy mo¿e u¿ywaæ tego programu przez okres testowy o d³ugoœci 40 dni.
+Po tym okresie, aby dalej u¿ywaæ RARa, nale¿y zakupiæ licencjê.
+
+3. Istniej¹ 2 podstawowe typy licencji
+
+a. Licencja na u¿ywanie na jednym komputerze. U¿ytkownik nabywa
+jedn¹ licencjê na u¿ywanie archiwizera RAR na jednym komputerze.
+
+U¿ytkownicy prywatni mog¹ u¿ywaæ pojedynczej licencji na wszystkich
+nale¿¹cych do nich komputerach.
+
+U¿ytkownicy komercyjni musz¹ wykupiæ licencje dla ka¿dego komputera,
+na którym bêdzie u¿ywany RAR.
+
+b. Licencja wielokrotnego u¿ytkowania. U¿ytkownik nabywa pewn¹ liczbê
+licencji na u¿ywanie w celu u¿ywania programu przez nabywcê lub jego
+pracowników, na tej samej liczbie komputerów.
+
+Dla œrodowiska sieciowego nale¿y wykupiæ licencjê dla ka¿dej stacji
+roboczej, na której RAR jest zainstalowany, u¿ywany, lub która
+uzyskuje do niego dostêp. Ka¿da stacja robocza musi mieæ osobn¹
+licencjê niezale¿nie od tego, czy RAR bêdzie u¿ywany w tym samym
+czasie co na innych stacjach roboczych, czy nie. Jeœli np. RAR
+bêdzie u¿ywany na 9 stanowiskach (jednoczeœnie lub nie), nale¿y
+wykupiæ 9 licencji.
+
+Po zarejestrowaniu u¿ytkownik otrzymuje prawo do u¿ywania RARa na
+tylu komputerach, na ile opiewa zakupiona licencja (zakupione licencje),
+w dowolnym legalnym celu. Zarejestrowana wersja archiwizera RAR
+nie mo¿e byæ wypo¿yczana, lecz mo¿e byæ bezzwrotnie przekazana innej
+osobie, jeœli ta osoba zgodzi siê na przestrzeganie postanowieñ tej
+umowy licencyjnej. Jeœli program jest uaktualnieniem, to przekazane
+musz¹ zostaæ wszystkie poprzednie jego wersje wraz z uaktualnieniem.
+
+4. Licencjonowanie RARa na urz¹dzeniach przenoœnych (pendrive, zewnêtrzny
+dysk)
+
+Uzupe³nieniem powy¿szych postanowieñ umowy licencyjnej s¹ nastêpuj¹ce
+postanowienia dotycz¹ce urz¹dzeñ przenoœnych
+
+a. Licencja na u¿ywanie na jednym komputerze. U¿ytkownicy prywatni mog¹
+u¿ywaæ pojedynczej licencji na wszystkich urz¹dzeniach przenoœnych
+bêd¹cych ich w³asnoœci¹.
+
+U¿ytkownicy komercyjni mog¹ u¿ywaæ pojedynczej licencji na jednym
+komputerze i jednym urz¹dzeniu przenoœnym.
+
+b. Licencja wielokrotnego u¿ytkowania. Nabywcy takiej licencji mog¹
+jej u¿ywaæ na tylu urz¹dzeniach przenoœnych, dla ilu komputerów
+zosta³a ona wykupiona.
+
+Liczba uruchomionych kopii RARa w jednym czasie jest ograniczona
+liczb¹ wykupionych licencji.
+
+Urz¹dzenie przenoœne z licencjonowan¹ kopi¹ RARa mo¿e byæ u¿ywane
+przez nabywcê licencji lub jego pracowników na wielu komputerach.
+
+Aby u¿ywaæ RARa z urz¹dzenia przenoœnego na komputerze, który
+nie jest w³asnoœci¹ nabywcy licencji, nale¿y wykupiæ na niego
+osobn¹ licencjê.
+
+5. Nielicencjonowana testowa wersja RARaWinRARa mo¿e byæ dowolnie
+rozpowszechniana (za wyjatkiem sytuacji opisanych poni¿ej),
+pod warunkiem, ¿e pakiet dystrybucyjny nie zostanie zmodyfikowany.
+
+a. ¯adna osoba ani firma nie mo¿e rozpowszechniaæ poszczególnych
+sk³adników pakietu (za wyj¹tkiem UnRARa) bez pisemnej zgody Autora.
+
+b. Nielicencjonowana testowa wersja RARaWinRARa nie mo¿e stanowiæ
+oprogramowania dodatkowego (do³¹czanego do innego sprzedawanego
+produktu) bez pisemnej zgody Autora.
+
+c. Programy usuwaj¹ce zabezpieczenia, klucze rejestracyjne ani
+generatory takich kluczy nie mog¹ znajdowaæ siê w tym samym
+pakiecie dystrybucyjnym, co RARWinRAR.
+
+6. Wiêcej informacji na temat zakupu licencji znajduje siê w pliku Order.htm
+
+7. ARCHIWIZER RAR JEST ROZPOWSZECHNIANY JAK JEST. NIE UDZIELA SIÊ
+NA NIEGO ¯ADNEJ GWARANCJI. U¯YWASZ GO NA W£ASNE RYZYKO. ANI AUTOR ANI
+DYSTRYBUTORZY NIE PONOSZ¥ ODPOWIEDZIALNOŒCI ZA UTRATÊ DANYCH, SZKODY,
+UTRATÊ ZYSKÓW LUB JAKIEKOLWIEK INNE STRATY WYNIK£E Z U¯YWANIA LUB
+NIEMO¯NOŒCI U¯YCIA TEGO PROGRAMU
+
+8. Poza zakupem licencji nie ma ¯ADNYCH innych kosztów licencyjnych
+zwi¹zanych z tworzeniem i dystrybucj¹ archiwów, woluminów,
+samorozpakowuj¹cych siê archiwów i samorozpakowuj¹cych siê woluminów
+RARa. Legalnie zarejestrowani u¿ytkownicy mog¹ u¿ywaæ swoich kopii
+RARaWinRARa w celu tworzenia archiwów i samorozpakowuj¹cych siê
+archiwów i rozpowszechniaæ te archiwa bez wnoszenia dodatkowych op³at.
+
+9. Nie mo¿na u¿ywaæ, kopiowaæ, emulowaæ, klonowaæ, wypo¿yczaæ, sprzedawaæ,
+modyfikowaæ, dekompilowaæ, deassemblowaæ, odtwarzaæ ani przekazywaæ
+licencjonowanego programu ani ¿adnej jego czêœci za wyj¹tkiem sytuacji
+opisanych w tej umowie. Ka¿dy taki przypadek nieautoryzowanego u¿ycia
+spowoduje natychmiastowe cofniêcie licencji i mo¿e skoñczyæ siê wejœciem
+na drogê s¹dow¹.
+
+Biblioteka 7zxa.dll utworzona przez Igora Pavlova jest dystrybuowana
+na licencji LGPL 3 (httpwww.gnu.orglicenseslgpl.html).
+Zezwala siê na modyfikacje i reverse engineering tej biblioteki w zakresie
+licencji, na jakiej jest dystrybuowana. Kod Ÿród³owy biblioteki 7zxa.dll
+jest dostêpny w Internecie na stronie httpwww.7-zip.org
+
+¯aden z programów (RAR, WinRAR i UnRAR) ani kody Ÿród³owe UnRARa nie
+mog¹ byæ u¿yte w celu odtworzenia algorytmu kompresji RARa bez
+pisemnej zgody Autora.
+
+Klucze rejestracyjne RARaWinRARa nie mog¹ byæ rozpowszechniane
+(za wyj¹tkiem sytuacji opisanej w punkcie 3.) poza obszarem kontroli
+nabywcy licencji bez pisemnej zgody Autora.
+
+Wszelkie inne prawa, o których licencja nie wspomina, nale¿¹ do
+Alexandra Roshala.
+
+10. Zainstalowanie i u¿ywanie RARaWinRARa oznacza akceptacjê warunków
+tej umowy licencyjnej.
+
+11. Jeœli nie zgadzasz siê z warunkami tej umowy, musisz zaprzestaæ
+u¿ywania RARaWinRARa i usun¹æ go, i wszystkie towarzysz¹ce mu pliki,
+ze swoich noœników danych.
+
+Dziêkujê za u¿ywanie RARa.
+
+Alexander Roshal 
