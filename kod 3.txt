@@ -3,7 +3,7 @@ void ruch_gracza(char plansza[3][3])
     unsigned int i=3, j;
     wypisz(plansza);
     printf("Podaj wiersz i kolumne w ktorej chcesz wstawic krzyzyk\n");
-    while ((i>2)||(j>2) || (plansza[i][j]!=' '))
+    while ((i>2)||(j>2)asa || (plansza[i][j]!=' '))
         scanf("%u %u", &i, &j);
     plansza[i][j]='x';
 }
