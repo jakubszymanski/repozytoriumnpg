@@ -7,7 +7,7 @@ def fibonacci(n):  # definicja funkcji
     a, b = pwyrazy  # przypisanie wielokrotne, rozpakowanie tupli
     while n > 0:
         print b,
-        a, b = b, a + b  # przypisanie wielokrotne
+        a, b = b, a + b  # przypisanie wielokrotneaa
         n -= 1
 
 n = int(raw_input("Podaj numer wyrazu: "))

@@ -7,7 +7,7 @@ void ruch_gracza(char plansza[3][3])
         scanf("%u %u", &i, &j);
     plansza[i][j]='x';
 }
-/*Funkcja sprawdz sprawdzi:aa
+/*Funkcja sprawdz sprawdzi:aaaa
 czy na planszy nie ma trzech takich samych znaków lezacych
 w jednej linii (wtedy którys z graczy wygra³),
 czy plansza jest juz pe³na (wtedy jest remis)*/
